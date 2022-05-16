@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "2",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "3",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "4",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "5",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"LOW TOP SHOE",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "6",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"LOW TOP SHOE",
+        "size_giay":"32",
+        "hinh_giay":"giay1.jpg",
+        "price":"1700000",
+        "code_giay":"2"
+    }
+]
