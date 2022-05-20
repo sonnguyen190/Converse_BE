@@ -4,52 +4,53 @@
         "ten_giay":"Chuck 70 Crafted Florals",
         "loai_giay":"HighTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwaa4c2058/images/e_08/A00537C_E_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     },
     {
         "id": "2",
-        "ten_giay":"Chuck 70 Crafted Florals",
+        "ten_giay":"Chuck Taylor All Star CX Crafted Stripes",
         "loai_giay":"HighTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc228d302/images/e_08/A00416C_E_08X1.jpg?sw=406",
+        "hinh_giay_hover":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc228d302/images/e_08/A00416C_E_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     },
     {
         "id": "3",
-        "ten_giay":"Chuck 70 Crafted Florals",
+        "ten_giay":"Chuck 70 Archive Paint Splatter",
         "loai_giay":"HighTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwdcbc7290/images/d_08/A01170C_D_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     },
     {
         "id": "4",
-        "ten_giay":"Chuck 70 Crafted Florals",
+        "ten_giay":"Chuck Taylor All Star Classic",
         "loai_giay":"HighTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw9175aa12/images/d_08/M7650_D_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     },
     {
         "id": "5",
-        "ten_giay":"Chuck 70 Crafted Florals",
-        "loai_giay":"LOW TOP SHOE",
+        "ten_giay":"Chuck Taylor All Star Seasonal Color",
+        "loai_giay":"LowTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc0546163/images/d_08/164028F_D_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     },
     {
         "id": "6",
-        "ten_giay":"Chuck 70 Crafted Florals",
-        "loai_giay":"LOW TOP SHOE",
+        "ten_giay":"Chuck Taylor All Star Split Panel Camo",
+        "loai_giay":"LowTop",
         "size_giay":"32",
-        "hinh_giay":"giay1.jpg",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw1b4420ad/images/d_08/A02568C_D_08X1.jpg?sw=406",
         "price":"1700000",
         "code_giay":"2"
     }
