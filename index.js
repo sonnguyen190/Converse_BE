@@ -7,16 +7,17 @@ const data = require("./data/dataGiay.json");
 const app = express();
 app.use(cors());
 const server = http.createServer(app);
-
 const io = socketIo(server, {
   cors: {
     origin: "*",
     methods: ["GET", "POST"],
   },
 });
-
-app.get("/Converse/HighTop", (req, res) => {
-  res.status(200).json(data);
+app.get("/LowTop", (req, res) => {
+  res.status(200).json(data.filter((item) => item.loai_giay === "LowTop"));
+});
+app.get("/HighTop", (req, res) => {
+  res.status(200).json(data.filter((item) => item.loai_giay === "HighTop"));
 });
 // app.get("/Converse/HighTop", (req, res) => {
 //   res.status(200).send(data.);

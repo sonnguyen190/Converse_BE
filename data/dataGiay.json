@@ -5,7 +5,7 @@
         "loai_giay":"HighTop",
         "size_giay":"32",
         "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwaa4c2058/images/e_08/A00537C_E_08X1.jpg?sw=406",
-        "price":"1700000",
+        "price":"2000000",
         "code_giay":"2"
     },
     {
@@ -15,7 +15,7 @@
         "size_giay":"32",
         "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc228d302/images/e_08/A00416C_E_08X1.jpg?sw=406",
         "hinh_giay_hover":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc228d302/images/e_08/A00416C_E_08X1.jpg?sw=406",
-        "price":"1700000",
+        "price":"2000000",
         "code_giay":"2"
     },
     {
@@ -38,20 +38,240 @@
     },
     {
         "id": "5",
-        "ten_giay":"Chuck Taylor All Star Seasonal Color",
-        "loai_giay":"LowTop",
+        "ten_giay":"Chuck 70 Bright Embroidery",
+        "loai_giay":"HighTop",
         "size_giay":"32",
-        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc0546163/images/d_08/164028F_D_08X1.jpg?sw=406",
-        "price":"1700000",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwf1d98626/images/e_08/A02183C_E_08X1.jpg?sw=406",
+        "price":"1500000",
         "code_giay":"2"
     },
     {
         "id": "6",
+        "ten_giay":"Chuck Taylor All Star Seasonal Color",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwc0546163/images/d_08/164028F_D_08X1.jpg?sw=406",
+        "price":"1500000",
+        "code_giay":"2"
+    },
+    {
+        "id": "7",
+        "ten_giay":"Chuck 70 Vintage Canvas",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw1e612b12/images/d_08/162050C_D_08X1.jpg?sw=406",
+        "price":"1969000",
+        "code_giay":"2"
+    },
+    {
+        "id": "8",
         "ten_giay":"Chuck Taylor All Star Split Panel Camo",
-        "loai_giay":"LowTop",
+        "loai_giay":"HighTop",
         "size_giay":"32",
         "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw1b4420ad/images/d_08/A02568C_D_08X1.jpg?sw=406",
+        "price":"1969000",
+        "code_giay":"2"
+    },
+    {
+        "id": "9",
+        "ten_giay":"Chuck 70 Tropical Leaf",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwd736d7fb/images/d_08/A00482C_D_08X1.jpg?sw=406",
+        "price":"2219000",
+        "code_giay":"2"
+    },
+    {
+        "id": "10",
+        "ten_giay":"Chuck Taylor All Star Marbled",
+        "loai_giay":"HighTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw409b002e/images/e_08/A02127C_E_08X1.jpg?sw=406",
+        "price":"2219000",
+        "code_giay":"2"
+    },
+    {
+        "id": "11",
+        "ten_giay":"Chuck Taylor All Star Seasonal Color",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwcc152539/images/d_08/A00463C_D_08X1.jpg?sw=406",
+        "price":"1389000",
+        "code_giay":"2"
+    },
+    {
+        "id": "12",
+        "ten_giay":"Chuck Taylor All Star Lift Platform Floral",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw9b646df4/images/i_08/A02566C_I_08X1.jpg?sw=406",
+        "price":"1789000",
+        "code_giay":"2"
+    },
+    {
+        "id": "13",
+        "ten_giay":"Chuck Taylor All Star Lift Platform Canvas",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw84dda585/images/a_08/560250C_A_08X1.jpg?sw=406",
+        "price":"1789000",
+        "code_giay":"2"
+    },
+    {
+        "id": "14",
+        "ten_giay":"Chuck 70 Archive Paint Splatter",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw35573d35/images/e_08/A01172C_E_08X1.jpg?sw=406",
+        "price":"1889000",
+        "code_giay":"2"
+    },
+    {
+        "id": "15",
+        "ten_giay":"Chuck Taylor All Star Archive Paint Splatter",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw4fb5dfa6/images/d_08/A00469C_D_08X1.jpg?sw=406",
+        "price":"1889000",
+        "code_giay":"2"
+    },
+    {
+        "id": "16",
+        "ten_giay":"Chuck 70 Crafted Florals",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw35f02ce0/images/e_08/A00538C_E_08X1.jpg?sw=406",
+        "price":"2089000",
+        "code_giay":"2"
+    },
+    {
+        "id": "17",
+        "ten_giay":"Run Star Hike Platform Stripes",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw488b2639/images/d_08/A03297C_D_08X1.jpg?sw=406",
+        "price":"2489000",
+        "code_giay":"2"
+    },
+    {
+        "id": "18",
+        "ten_giay":"Run Star Motion Platform Seasonal Color",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwac7858e8/images/d_08/A02299C_D_08X1.jpg?sw=406",
+        "price":"2889000",
+        "code_giay":"2"
+    },
+    {
+        "id": "19",
+        "ten_giay":"CONS Louie Lopez Pro Nubuck Leather",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw19807a7e/images/a_08/172629C_A_08X1.jpg?sw=406",
+        "price":"1689000",
+        "code_giay":"2"
+    },
+    {
+        "id": "20",
+        "ten_giay":"Pro Leather It's Possible",
+        "loai_giay":"LowTop",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwec735270/images/k_08/A01649C_K_08X1.jpg?sw=406",
+        "price":"2089000",
+        "code_giay":"2"
+    },
+    {
+        "id": "21",
+        "ten_giay":"Chuck Taylor All Star 2X Lift Platform Pastel Gradient",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw18356878/images/a_08/A00558C_A_08X1.jpg?sw=406",
+        "price":"2089000",
+        "code_giay":"2"
+    },
+    {
+        "id": "22",
+        "ten_giay":"Chuck Taylor All Star 2X Lift Platform",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw22bbf6be/images/e_08/A00559C_E_08X1.jpg?sw=406",
         "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "23",
+        "ten_giay":"Chuck Taylor All Star Lift Platform Crafted Florals",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw70ad6997/images/d_08/A00652C_D_08X1.jpg?sw=406",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "24",
+        "ten_giay":"Chuck Taylor All Star Move Platform Seasonal Color",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw0d68a33c/images/j_08/A00562C_J_08X1.jpg?sw=406",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "25",
+        "ten_giay":"Run Star Motion Platform",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwba8f1af0/images/d_08/171545C_D_08X1.jpg?sw=406",
+        "price":"2770000",
+        "code_giay":"2"
+    },
+    {
+        "id": "26",
+        "ten_giay":"Chuck Taylor All Star Lift Platform Florals",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwa58dc7ae/images/d_08/A03341C_D_08X1.jpg?sw=406",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "27",
+        "ten_giay":"Run Star Hike Platform Tonal Embroidery",
+        "loai_giay":"HighTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwff650bfb/images/d_08/A02231C_D_08X1.jpg?sw=406",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "28",
+        "ten_giay":"Run Star Hike Platform Stripes",
+        "loai_giay":"LowTop",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwb746840f/images/a_08/A03297C_A_08X1.jpg?sw=406",
+        "price":"1700000",
+        "code_giay":"2"
+    },
+    {
+        "id": "29",
+        "ten_giay":"Run Star Hike Platform Tropical Florals",
+        "loai_giay":" ",
+        "platform":"true",
+        "size_giay":"32",
+        "hinh_giay":"https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwd37c3d61/images/e_08/A00551C_E_08X1.jpg?sw=406",
+        "price":"2500000",
         "code_giay":"2"
     }
 ]
