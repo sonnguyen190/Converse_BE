@@ -19,6 +19,12 @@ app.get("/LowTop", (req, res) => {
 app.get("/HighTop", (req, res) => {
   res.status(200).json(data.filter((item) => item.loai_giay === "HighTop"));
 });
+app.get("/PlatForms", (req, res) => {
+  res.status(200).json(data.filter((item) => item.platform === "true"));
+});
+app.get("/All", (req, res) => {
+  res.status(200).send(data);
+});
 // app.get("/Converse/HighTop", (req, res) => {
 //   res.status(200).send(data.);
 // });
